@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestTradingLibrary/1.0.0": {
+        "dependencies": {
+          "TradingLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TestTradingLibrary.dll": {}
+        }
+      },
+      "TradingLibrary/1.0.0": {
+        "runtime": {
+          "TradingLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestTradingLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

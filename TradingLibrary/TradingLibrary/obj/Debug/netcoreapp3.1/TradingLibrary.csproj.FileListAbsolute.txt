@@ -1,0 +1,9 @@
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\bin\Debug\netcoreapp3.1\TradingLibrary.deps.json
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\bin\Debug\netcoreapp3.1\TradingLibrary.dll
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\bin\Debug\netcoreapp3.1\TradingLibrary.pdb
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\netcoreapp3.1\TradingLibrary.csprojAssemblyReference.cache
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\netcoreapp3.1\TradingLibrary.AssemblyInfoInputs.cache
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\netcoreapp3.1\TradingLibrary.AssemblyInfo.cs
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\netcoreapp3.1\TradingLibrary.csproj.CoreCompileInputs.cache
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\netcoreapp3.1\TradingLibrary.dll
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\netcoreapp3.1\TradingLibrary.pdb
