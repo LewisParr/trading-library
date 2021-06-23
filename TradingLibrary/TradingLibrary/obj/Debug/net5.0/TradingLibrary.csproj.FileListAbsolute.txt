@@ -1,0 +1,11 @@
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\bin\Debug\net5.0\TradingLibrary.deps.json
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\bin\Debug\net5.0\TradingLibrary.dll
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\bin\Debug\net5.0\ref\TradingLibrary.dll
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\bin\Debug\net5.0\TradingLibrary.pdb
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\net5.0\TradingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\net5.0\TradingLibrary.AssemblyInfoInputs.cache
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\net5.0\TradingLibrary.AssemblyInfo.cs
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\net5.0\TradingLibrary.csproj.CoreCompileInputs.cache
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\net5.0\TradingLibrary.dll
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\net5.0\ref\TradingLibrary.dll
+C:\dev\trading\trading-library\TradingLibrary\TradingLibrary\obj\Debug\net5.0\TradingLibrary.pdb
